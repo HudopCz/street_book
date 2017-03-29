@@ -4,9 +4,8 @@
 <title>{{ book_name }}</title>
 </head>
 <body>
-
-<h1>{{ heading }}</h1>
-<p>{{ text }}</p>
-
+{% for line in text %}
+  <p>{{ line }}</p>
+{% endfor %}
 </body>
 </html>

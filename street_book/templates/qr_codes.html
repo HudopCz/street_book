@@ -1,0 +1,18 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>{{ book_name }}</title>
+</head>
+<body>
+<table>
+{% for code in codes  %}
+    <tr><td>{{ code.url }}</td></tr>
+    <tr><td><img
+      src="{{ code.img }}"
+      style='display:block; width:300px;height:300px;'
+    />
+    <td></tr>
+{% endfor %}
+</table>
+</body>
+</html>
