@@ -14,7 +14,7 @@
       "A vágus pohozený ve škarpě je jedním z důkazů.",
       "Důkazů, že ať se snažíme, jak chceme, šance na štěstí je asi taková, jako vidět Gottwalda drátem přišívat záplatu na žlutých těhotenských kalhotách.",
       "Smrt přináší život. V otevřeném břiše se mu už pomalu líhne další generace parazitických červů jako obraz naší společnosti. V těchhle ulicích můžete ležet i dva měsíce, než si vás nějaký šťoural všimne. A když si vás všimne, budete šťastní, když ho napadne nahlásit to, namísto aby vás jen obral nebo ignoroval.",
-      "A ty si myslíš, že jsi lepší? Nemáš čas se zdržovat s dlouhým sepisováním protokolu. Zbývají dvě možnosti - <a href=\"/prohledat-vaguse\">obereš ho</a> nebo nemáš čas ztrácet čas (utíkej dál za spojkou na <b>Ortenovo náměstí 445</b>)?"
+      "A ty si myslíš, že jsi lepší? Nemáš čas se zdržovat s dlouhým sepisováním protokolu. Zbývají dvě možnosti - <a href=\"/books/protipol/pages/prohledat-vaguse\">obereš ho</a> nebo nemáš čas ztrácet čas (utíkej dál za spojkou na <b>Ortenovo náměstí 445</b>)?"
     ],
     "images": []
   },
@@ -34,7 +34,7 @@
       "Dobře, dá prý vědět falzifikátorovi, ať pro tebe má připravené falešné doklady. Ty si máš sehnat jen schvalovací razítko, které by ti měl poskytnout člověk ze Společnosti. Jenže problém je, že takovému nuzákovi nikdo moc nevěří, takže adresa, kterou měl k dispozici, byla zakódovaná tak, aby to beznadějné případy nerozluštily."
     ],
     "images": [
-        "spojka-falzifikator.jpg"
+        "/static/protipol/spojka-falzifikator.jpg"
     ]
 
   },
@@ -48,20 +48,20 @@
       "A chlap, co tu bydlel před ním, by v tobě možná nevzbuzoval o moc větší sympatie. Ten člověk, který má všechno uklizené, jak se patří. Ten člověk s bytem konfekčním stejně jako jeho tělo. Ten člověk, jehož byt působí jako vasektomie běžného obydlí. A v tomhle neživém prostředí máš najít, kam si asi schovává svoje milovaná razítka. Bezva. Jen kdyby pan Hromada Svalů neměl nějakou hromádku taky v hlavě a napadlo se ho zeptat, jak to tu vlastně funguje, kde ta zatracená razítka hledat."
     ],
     "images": [
-      "pan-razitko.jpg"
+      "/static/protipol/pan-razitko.jpg"
     ]
   }
   ,
   "zidle": {
-    "text": [ "Super, máš razítko. Teď už jenom papíry a rychle pryč. Rychle pryč se dostaneš <a href=\"/jdu-pro-papiry\">tudy</a>" ],
+    "text": [ "Super, máš razítko. Teď už jenom papíry a rychle pryč. Rychle pryč se dostaneš <a href=\"/books/protipol/pages/jdu-pro-papiry\">tudy</a>" ],
     "images": []
   },
   "du-pro-papiry": {
     "text": [
       "No jasně. Je tam. Ten hnusák, co tak nenápadně postával na rohu. Ten hnusák, co se snažil vypadat, že si jenom skočil před vchod na cigárko. To, že tě sleduje, už ti nevyvrátí nikdo. Ale co teď s ním? Vrhne se na mě, nebo mě ještě bude špehovat? Utéct, nebo mu dát sežrat to, co se on určitě chystá servírovat mně?",
-      "Máš-li nůž, co takhle mu vysvětlit, že sledovat lidi, to se prostě nedělá? Jen ať pozorně poslouchá, až bude sbírat svá střeva z chodníku. Násilí je synonymum lásky. A ty mu chceš ukázat, že ho miluješ opravdu <a href=\"brett-brodak\">hodně.</a>",
+      "Máš-li nůž, co takhle mu vysvětlit, že sledovat lidi, to se prostě nedělá? Jen ať pozorně poslouchá, až bude sbírat svá střeva z chodníku. Násilí je synonymum lásky. A ty mu chceš ukázat, že ho miluješ opravdu <a href=\"/books/protipol/pages/brett-brodak\">hodně.</a>",
       "Ale co bez nože? Koukni se na to takhle - je těžké zapomenout na bolest, ale ještě těžší je pamatovat si to pěkné. Po štěstí nám nezůstanou žádné jizvy. Z klidu a míru se tak pramálo poučíme. Poučme toho chlapa našimi pěstmi - ne nadarmo se ti říká Dan McDrew, drsňák, jehož pěsti budí posvátnou <a href=\"dan-mcdrew\">úctu.</a>",
-      "Anebo kolem něj prostě proběhnout, třeba tě nedožene. Jeho vnější znaky svědčí o špatné kondici - modřiny jsou symptomem cirhózy jater, kašel karcinom plic, sakra, toho musejí <a href=\"forrest-gump\">předbíhat</a> snad i nehybné předměty."
+      "Anebo kolem něj prostě proběhnout, třeba tě nedožene. Jeho vnější znaky svědčí o špatné kondici - modřiny jsou symptomem cirhózy jater, kašel karcinom plic, sakra, toho musejí <a href=\"/books/protipol/pages/forrest-gump\">předbíhat</a> snad i nehybné předměty."
     ],
     "images": []
   },
@@ -115,7 +115,7 @@
       "Noc je tichá, jak jen může být. Zatím žádné sirény.",
       "Je jedna z těch podivných, nervózních nocí, co přijdou uprostřed jara, nepozvány. Chloupky na rukou získají brnivý elektrický náboj, který upozorňuje, že se blíží bouřka. Ať už opravdová, nebo jenom naše soukromá.",
       "Falzifikátor nechal hospodskému moje papíry raději zamčené v trezoru. Neznám kód. Je tam přiložený vzkaz - “Promiň, ale vypadá to, že dnes budu mít něco na práci. Čekal jsem, stihl jsem mezitím sníst česnečku a vepřová játra na cibulce s rýží, ale pak už jsem vážně musel jít; ale zjistil jsem, že mi ujela tramvaj, tak jsem se stavil ještě na dodatečného utopence a pak letěl na další; ale nechal jsem ti něco u hospodského v trezoru.”",
-      "Trezor odemkneš tak, že zadáš adresu {{ base_url }}books/protipol/pages/kod-k-trezoru (třeba {{ base_url }}books/protipol/pages/123456)"
+      "Trezor odemkneš tak, že zadáš adresu http://hry.hudop.cz/books/protipol/pages/kod-k-trezoru (třeba http://hry.hudop.cz/books/protipol/pages/123456)"
     ],
     "images": []
   },
