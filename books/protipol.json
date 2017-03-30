@@ -5,7 +5,8 @@
       "Ten chlap na rohu, co se tváří tak nenápadně. Ta ženská, co přechází ulici. To rozsvícené okno. To zhasnuté okno. A kolik lidí sakra v tuhle hodinu venčí psy?",
       "Možná je realita jenom nějaká nemoc, která se šíří společností a infikuje každého z nás… Ale možná taky ne. Každopádně pokud tě i tak někdo sleduje, ani náhodou tě nesmí dostat.",
       "Půjdeš dál přímou cestou, abys neprozradil, že o nich víš (na <b>Ortenovo náměstí 445</b>), nebo se pokusíš ztratit ve vedlejších uličkách (přes adresu <b>U Městských domů 181</b>)?"
-    ]
+    ],
+    "images": []
   },
   "postranni-ulicka": {
     "text": [
@@ -14,14 +15,16 @@
       "Důkazů, že ať se snažíme, jak chceme, šance na štěstí je asi taková, jako vidět Gottwalda drátem přišívat záplatu na žlutých těhotenských kalhotách.",
       "Smrt přináší život. V otevřeném břiše se mu už pomalu líhne další generace parazitických červů jako obraz naší společnosti. V těchhle ulicích můžete ležet i dva měsíce, než si vás nějaký šťoural všimne. A když si vás všimne, budete šťastní, když ho napadne nahlásit to, namísto aby vás jen obral nebo ignoroval.",
       "A ty si myslíš, že jsi lepší? Nemáš čas se zdržovat s dlouhým sepisováním protokolu. Zbývají dvě možnosti - <a href=\"/prohledat-vaguse\">obereš ho</a> nebo nemáš čas ztrácet čas (utíkej dál za spojkou na <b>Ortenovo náměstí 445</b>)?"
-    ]
+    ],
+    "images": []
   },
   "prohledat-vaguse": {
     "text": [
       "Jasně, že to není morálně fér, obrat mrtvého váguse a vypařit se. Ale položte si tuhle otázku - co je horší, konat něco s vědomím, že za své činy poneseme následky, nebo alibisticky nekonat nic?",
       "I když vypadal, že má nejmíň 6000 nakažlivých nemocí (což je stejně jako IQ 6000 učitelů tělocviku nebo 12000 hlídačů parkovišť), prohledal jsi ho. A vyplatilo se, našel jsi nůž. Starou rezavou rybičku.",
       "Ale hrozí, že tě někdo mohl při prohledávání mršiny spatřit. Bezpečnější bude nezdržovat se a rovnou utíkat za spojkou (zapiš si nůž, 10 minut zdržení a utíkej dál za spojkou na <b>Ortenovo náměstí 445</b>)."
-    ]
+    ],
+    "images": []
   },
   "spojka-falzifikator": {
     "text":[
@@ -50,7 +53,8 @@
   }
   ,
   "zidle": {
-    "text": [ "Super, máš razítko. Teď už jenom papíry a rychle pryč. Rychle pryč se dostaneš <a href=\"jdu-pro-papiry\">tudy</a>" ]
+    "text": [ "Super, máš razítko. Teď už jenom papíry a rychle pryč. Rychle pryč se dostaneš <a href=\"jdu-pro-papiry\">tudy</a>" ],
+    "images": []
   },
   "du-pro-papiry": {
     "text": [
@@ -58,7 +62,8 @@
       "Máš-li nůž, co takhle mu vysvětlit, že sledovat lidi, to se prostě nedělá? Jen ať pozorně poslouchá, až bude sbírat svá střeva z chodníku. Násilí je synonymum lásky. A ty mu chceš ukázat, že ho miluješ opravdu <a href=\"brett-brodak\">hodně.</a>",
       "Ale co bez nože? Koukni se na to takhle - je těžké zapomenout na bolest, ale ještě těžší je pamatovat si to pěkné. Po štěstí nám nezůstanou žádné jizvy. Z klidu a míru se tak pramálo poučíme. Poučme toho chlapa našimi pěstmi - ne nadarmo se ti říká Dan McDrew, drsňák, jehož pěsti budí posvátnou <a href=\"dan-mcdrew\">úctu.</a>",
       "Anebo kolem něj prostě proběhnout, třeba tě nedožene. Jeho vnější znaky svědčí o špatné kondici - modřiny jsou symptomem cirhózy jater, kašel karcinom plic, sakra, toho musejí <a href=\"forrest-gump\">předbíhat</a> snad i nehybné předměty."
-    ]
+    ],
+    "images": []
   },
   "brett-brodak": {
     "text": [
@@ -66,27 +71,30 @@
       "„Cože?”",
       "A šup, vrazils mu kudlu do břicha. A znovu. A znovu a znovu a znovu a znovu. Jo, takhle to dělají frajeři. Za ten výkon by ti měl odpustit i ten prvotní patos. Už leží na zemi a hází sebou jako kapka potu mezi půlkama cvičitelky aerobiku. Teď ještě zjistit, co všechno o tobě ví.",
       "Někdy se paranoia opírá o skutečnost. No, a víte, někdy ne. A tohle je ten druhý případ. Tak mu pověz, že nemáš na jeho umírání celý den, trochu života do toho umírání, zavolej mu sanitku a spěchej dál za falzifikátorem (na adresu <b>U Uranie 1207</b>)."
-    ]
-
+    ],
+    "images": []
   },
   "dan-mcdrew": {
     "text":[
       "Dnešek je jeden z těch dnů, kdy jako by Slunce nebo Měsíc vylezly jen proto, aby nás ponížily. Samozřejmě jsi dostal šílenou nakládačku. Už ti někdy někdo řekl, že jsi hnusné, plesnivé povidlo, které má důvtip, šarm a duchapřítomnost německého ovčáka s transplantací hlavy? Zaútočit na nevinného člověka, který si jen vyšel na cigárko, to vážně není dobrý nápad. A ještě horší to je, pokud se vůbec neumíš prát.",
       "Jediné štěstí je, že na tebe nezavolal policii. A slitoval se, a zavolal ti záchranku. Běž si k vašemu felčarovi nechat vyléčit zranění (schovává se jako pediatr na adrese <b>V přístavu 1585</b>)."
-    ]
+    ],
+    "images": []
   },
   "forrest": {
     "text": [
       "3:47. To není zlý čásek na kilásek. Škoda, že jsi běžel jen 300 metrů a pak tě dohnal. A srazil na zem.",
       "Nakonec tě nechal ležet na zemi zbitého. Ale ještě jsi nevydechl naposledy. Zavolej si sanitku a nech se u vašeho felčara vyléčit (schovává se jako pediatr na adrese <b>V Přístavu 1585</b>)."
-    ]
+    ],
+    "images": []
   },
   "felcar": {
     "text": [
       "Když umíráš, lidi tě konečně doopravdy poslouchají, místo toho, aby jenom vyčkávali, až budou na řadě.",
       "Tvůj problém je, že jsi na umření nebyl, takže tě nikdo neposlouchal. Nechali tě 10 minut čekat (<i>ZAPIŠ SI 10 MINUT ZDRŽENÍ DO INVENTÁŘE</i>), než jsi se dostal na řadu. Od zkorumpovaného felčara, který dělá pro Společnost, bys čekal trochu ohleduplnější přístup.",
       "Teď jsi v pořádku a můžeš pokračovat k falzifikátorovi (na adresu <b>U Uranie 1207</b>)."
-    ]
+    ],
+    "images": []
   },
   "falzifikator": {
     "text": [
@@ -108,7 +116,8 @@
       "Je jedna z těch podivných, nervózních nocí, co přijdou uprostřed jara, nepozvány. Chloupky na rukou získají brnivý elektrický náboj, který upozorňuje, že se blíží bouřka. Ať už opravdová, nebo jenom naše soukromá.",
       "Falzifikátor nechal hospodskému moje papíry raději zamčené v trezoru. Neznám kód. Je tam přiložený vzkaz - “Promiň, ale vypadá to, že dnes budu mít něco na práci. Čekal jsem, stihl jsem mezitím sníst česnečku a vepřová játra na cibulce s rýží, ale pak už jsem vážně musel jít; ale zjistil jsem, že mi ujela tramvaj, tak jsem se stavil ještě na dodatečného utopence a pak letěl na další; ale nechal jsem ti něco u hospodského v trezoru.”",
       "Trezor odemkneš tak, že zadáš adresu {{ base_url }}books/protipol/pages/kod-k-trezoru (třeba {{ base_url }}books/protipol/pages/123456)"
-    ]
+    ],
+    "images": []
   },
   "123456": {
     "text": [
@@ -123,6 +132,7 @@
       "Co teď?",
       "Pokud máš už své doklady, ale nemáš peníze, bylo by záhodno si je opatřit. Ty bys snad měl mít schované v knížce v bytě své exmilenky (<b>Planetárium Praha, Královská obora 233</b>), anebo se za ní můžeš stavit přímo do práce na adrese <b>U Papírny 100/2</b>.",
       "Pokud máš peníze i doklady, nic ti nebrání zamířit už pryč. Pryč z tohohle všivého města, které koho nezkazí, toho alespoň pošpiní. Pryč z tohohle všivého města, které koho nedokáže pošpinit, toho zabije A jak pryč? No, možná bys to už mohl alespoň trochu tušit."
-    ]
+    ],
+    "images": []
   }
 }
