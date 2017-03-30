@@ -17,9 +17,10 @@ class BookPage(Resource):
         """
         Return content for specific page of the book
         """
+        this_dir = os.path.dirname(__file__)
         env = jinja2.Environment(
             loader=jinja2.FileSystemLoader(
-                './street_book/templates'
+                os.path.join(this_dir, '../templates')
             )
         )
 

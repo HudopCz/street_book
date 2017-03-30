@@ -1,5 +1,6 @@
 import jinja2
 import json
+import os
 import base64
 import qrcode
 import cStringIO
@@ -21,9 +22,10 @@ class Codes(Resource):
         """
         Return content for specific page of the book
         """
+        this_dir = os.path.dirname(__file__)
         env = jinja2.Environment(
             loader=jinja2.FileSystemLoader(
-                './street_book/templates'
+                os.path.join(this_dir, '../templates')
             )
         )
 
