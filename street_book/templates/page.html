@@ -3,6 +3,12 @@
 <head>
 <title>{{ book_name }}</title>
 </head>
+<style>
+@font-face {
+     font-family: typewriter;
+     src: url('/static/protipol/typewriter.ttf');
+}
+</style>
 <body>
 {% for line in text %}
   <p>{{ line }}</p>
