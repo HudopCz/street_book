@@ -53,6 +53,7 @@ class Codes(Resource):
                 img.save(buffer, format="PNG")
 
                 items.append({
+                    "name": page_id,
                     "url": url,
                     "img": "data:image/png;base64, " + base64.b64encode(
                         buffer.getvalue()

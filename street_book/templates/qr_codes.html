@@ -6,10 +6,10 @@
 <body>
 <table>
 {% for code in codes  %}
-    <tr><td>{{ code.url }}</td></tr>
+    <tr><td><a href="{{ code.url }}">{{ code.name }}</a></td></tr>
     <tr><td><img
       src="{{ code.img }}"
-      style='display:block; width:300px;height:300px;'
+      style='display:block; width:500px;height:500px;'
     />
     <td></tr>
 {% endfor %}
