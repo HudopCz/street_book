@@ -53,7 +53,7 @@
   }
   ,
   "zidle": {
-    "text": [ "Super, máš razítko. Teď už jenom papíry a rychle pryč. Rychle pryč se dostaneš <a href=\"jdu-pro-papiry\">tudy</a>" ],
+    "text": [ "Super, máš razítko. Teď už jenom papíry a rychle pryč. Rychle pryč se dostaneš <a href=\"/jdu-pro-papiry\">tudy</a>" ],
     "images": []
   },
   "du-pro-papiry": {
