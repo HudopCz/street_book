@@ -1,2 +1,2 @@
 class Config(object):
-    BASE_URL = "http://localhost:5000"
+    BASE_URL = "http://hry.hudop.cz/"
