@@ -1,18 +1,19 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
-<head>
-<title>{{ book_name }}</title>
-</head>
-<body>
-<table>
-{% for code in codes  %}
-    <tr><td><a href="{{ code.url }}">{{ code.name }}</a></td></tr>
-    <tr><td><img
-      src="{{ code.img }}"
-      style='display:block; width:500px;height:500px;'
-    />
-    <td></tr>
-{% endfor %}
-</table>
-</body>
+  <head>
+    <title>{{ book_name }}</title>
+  </head>
+  <body>
+    <table>
+      {% for code in codes  %}
+        <tr><td><a href="{{ code.url }}">{{ code.name }}</a></td></tr>
+        <tr><td><a href="{{ code.url_qr }}">QR kód {{ code.name }}</a></td></tr>
+        <tr><td><img
+          src="{{ code.img }}"
+          style='display:block; width:500px;height:500px;'
+        />
+        </td></tr>
+      {% endfor %}
+    </table>
+  </body>
 </html>

@@ -55,6 +55,7 @@ class Codes(Resource):
                 items.append({
                     "name": page_id,
                     "url": url,
+                    "url_qr": url + "/qr",
                     "img": "data:image/png;base64, " + base64.b64encode(
                         buffer.getvalue()
                     )
