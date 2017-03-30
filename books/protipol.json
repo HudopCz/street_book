@@ -148,5 +148,53 @@
       "Pokud se rozhodneš opatřit si zbraň, klikni na <a href=\"/books/protipol/pages/zbran\">zbraň</a>"
     ],
     "images": []
+  },
+  "predani-zpravy": {
+    "text":[
+      "Jak si jistì pamatuješ, vaše obvyklé heslo pro setkání je \"Masivní letáková kampaň.\" Zašifruj toto podle návodu, jak kontaktovat svého informátora, a výsledek napiš do hry.hudop.cz/protipol/xxxxxx" ,
+    ],
+    "images": []
+  },
+  "micus-zakoduje": {
+    "text":[
+      "Zašifrovanou zprávu necháváš na obvyklém místì. Nevíš sice, jak to dìlá, ale tvùj informátor se vždy o pøedání dozví témìø okamžitì a na místì schùzky je døív než ty. Mùžeš tedy rychle vyrazit na adresu <b>Novákových 439/6.</b> ",
+    ],
+    "images":[]
+  },
+  "obvykla-mista" :{
+    "text": [
+      "Rozhodl jsi se tedy proèesat místa, kde se tvùj informátor obèas zdržuje. Vzhledem k poètu hospod, které obráží, sis na sebe upletl slušný biè. Vyraž na adresu <b>Sokolovská 274/142.</b>"
+    ],
+    "images": []
+  },
+  "olympic" :{
+    "text": [
+      "Byla to hezká procházka a ty koneènì slavíš úspìch. Informátor tu sice není, ale místí barman ví, jak ho zastihnout. Nevíš sice, jak to dìlá, ale tvùj informátor se vždy o pøedání dozví témìø okamžitì a na místì schùzky je døív než ty. Mùžeš tedy rychle vyrazit na adresu <b>Novákových 439/6.</b>"
+    ],
+    "images":[]
+  },
+  "zbran" :{
+    "text": [
+      "Získat dnes zbraò není vùbec lehké. Vzlhedem ke všem tìm smìrnicím si èlovìk musí nechat registrovat i vodní pistolku. Naštìstí jsi nedávno popíjel s èlovìkem, který dìlá na registru zbraní a po pár pivech je dost ukecaný. Naneštìstí ten èlovìk mluví trochu v hádankách. Naštìstí si tu hádanku pamatuješ.",
+      "Pokud vyøešíš, kdo má pistoli, vydej se na jeho adresu a pistoli mu ukradni.",
+      "Pokud na to tvá mozková kapacita nestaèí, vydej se za svým informátorem, buï pøedáním zprávy (<a href=\"/books/protipol/pages/predani-zpravy\">pøedání zprávy</a>) nebo dojdeš zkontrolovat místa, kde se obèas nachází (<a href=\"/books/protipol/pages/obvzkla-mista\">obvyklá místa</a>)" ,
+      "Máme 5 lidí (Milan, Adam, Martin, Karel, Honza). Každý z nich bydlí na jiné adrese (Jateèní 540/4, Voctáøova 1477/5 , Malá Plynární 1030/3, Osadní 774/35, U Vody 1403/1), pije jiné pivo (Braník, Svijany, Gambáè, Kozel, Krušovice), má doma jiné domací mazlíèky (myši, èápa, mravence, šváby, krysy), má rád jinak propeèené steaky (raw, rare, medium, done, welldone) a má doma jiný prostøedek k obranì (špuntovka, kapslíkovka, vzduchovka, vodní pistole, pistole).",
+      "Úkolem je zjistit na jaké adrese se nachází pistole, abychom ji mohli jít ukrást, pokud víme, že",
+      "Milan bydlí na adrese Jateèní 540/4  a své steaky má rád raw.",
+      "Martin má na støeše èapí hnízdo.",
+      "Honzùv dùm se nachází úplnì napravo.",
+      "Adam bydlí na adrese Osadní 774/35 a jeho dùm sousedí s Honzovým a Martinovým.",
+      "Karel pije braník a bydlí nalevo od Milana.",
+      "Ten, kdo chová èápa bydlí na adrese Malá Plynární 1030/3 a má doma vodní pistoli.",
+      "Honza má doma mravence.",
+      "Adam nepije ani svijany, ani Krušovice ani Gambáè.",
+      "Dùm úplnì nalevo se nachází na adrese U Vody 1403/1 a je zamoøen šváby.",
+      "Na adrese Voctáøova 1477/5 se nachází vzduchovka a velká zásoba Gambáèe.",
+      "Ten, kdo má doma špuntovku, pije Svijany.",
+      "Krysy se nacházejí v domì mezi èápem a mravenci.",
+      "Lidé napravo od Milana nejedí své steaky medium.",
+      "Pistoli má doma ten, co jí své steaky well done."
+    ],
+    "images" :[]
   }
 }
