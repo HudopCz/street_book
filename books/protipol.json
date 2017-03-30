@@ -13,14 +13,14 @@
       "A vágus pohozený ve škarpě je jedním z důkazů.",
       "Důkazů, že ať se snažíme, jak chceme, šance na štěstí je asi taková, jako vidět Gottwalda drátem přišívat záplatu na žlutých těhotenských kalhotách.",
       "Smrt přináší život. V otevřeném břiše se mu už pomalu líhne další generace parazitických červů jako obraz naší společnosti. V těchhle ulicích můžete ležet i dva měsíce, než si vás nějaký šťoural všimne. A když si vás všimne, budete šťastní, když ho napadne nahlásit to, namísto aby vás jen obral nebo ignoroval.",
-      "A ty si myslíš, že jsi lepší? Nemáš čas se zdržovat s dlouhým sepisováním protokolu. Zbývají dvě možnosti - <a href=\"{{ base_url }}books/protipol/pages/prohledat-vaguse\">obereš ho</a> nebo nemáš čas ztrácet čas (utíkej dál za spojkou na <b>Ortenovo náměstí 445</b>)?"
+      "A ty si myslíš, že jsi lepší? Nemáš čas se zdržovat s dlouhým sepisováním protokolu. Zbývají dvě možnosti - <a href=\"/prohledat-vaguse\">obereš ho</a> nebo nemáš čas ztrácet čas (utíkej dál za spojkou na <b>Ortenovo náměstí 445</b>)?"
     ]
   },
   "prohledat-vaguse": {
     "text": [
       "Jasně, že to není morálně fér, obrat mrtvého váguse a vypařit se. Ale položte si tuhle otázku - co je horší, konat něco s vědomím, že za své činy poneseme následky, nebo alibisticky nekonat nic?",
       "I když vypadal, že má nejmíň 6000 nakažlivých nemocí (což je stejně jako IQ 6000 učitelů tělocviku nebo 12000 hlídačů parkovišť), prohledal jsi ho. A vyplatilo se, našel jsi nůž. Starou rezavou rybičku.",
-      "Ale hrozí, že tě někdo mohl při prohledávání mršiny spatřit. Bezpečnější bude nezdržovat se a rovnou utíkat za spojkou (zapiš si nůž, 10 minut zdržení a utíkej dál za spojkou na Ortenovo náměstí 445)."
+      "Ale hrozí, že tě někdo mohl při prohledávání mršiny spatřit. Bezpečnější bude nezdržovat se a rovnou utíkat za spojkou (zapiš si nůž, 10 minut zdržení a utíkej dál za spojkou na <b>Ortenovo náměstí 445</b>)."
     ]
   },
   "spojka-falzifikator": {
@@ -29,6 +29,9 @@
       "Takovým příkladem je tvoje spojka.",
       "Vybledlý pro nedostatek světla, vyhublý pro nedostatek stravy a dostatek medikace. Pro některé lidi je budoucnost jako perly sviním. Člověk, který je v běžném životě užitečný asi jako automat na kondomy ve Vatikánu. Navlečený v uhozeném tričku se zažloutlými fleky v podpaží, brýlích s tlustými obroučkami, příliš krátkých tyrkysových kalhotách a zaječích papučích. Člověk, s kterým bys za běžných okolností nechtěl mít nic společného. Ale taky člověk, který by ti i mohl pomoci sehnat falešné papíry.",
       "Dobře, dá prý vědět falzifikátorovi, ať pro tebe má připravené falešné doklady. Ty si máš sehnat jen schvalovací razítko, které by ti měl poskytnout člověk ze Společnosti. Jenže problém je, že takovému nuzákovi nikdo moc nevěří, takže adresa, kterou měl k dispozici, byla zakódovaná tak, aby to beznadějné případy nerozluštily."
+    ],
+    "images": [
+        "spojka-falzifikator.jpg"
     ]
 
   },
@@ -40,18 +43,21 @@
       "Tenhle chlap je přesným opakem tvojí spojky. Opálený, osvalený člověk připravený podat si kohokoli. A kdykoli. Ten typ, u kterého máte dojem, že mu je všechno oblečení malé, že má pořád potřebu svléknout si ty tyrkysové kalhoty a tílko a obléknout si plavky, namazat se syntholem a zatnout biceps. Triceps. Kvadriceps. Co-já-vím-jaký-ceps. Karikatura člověka, reklama na steroidy, vlašák uvězněný v lidské kůži.",
       "Když nevíme, koho nenávidět, začneme nenávidět sami sebe. Možná proto radši nenávidíš každého, na koho narazíš.",
       "A chlap, co tu bydlel před ním, by v tobě možná nevzbuzoval o moc větší sympatie. Ten člověk, který má všechno uklizené, jak se patří. Ten člověk s bytem konfekčním stejně jako jeho tělo. Ten člověk, jehož byt působí jako vasektomie běžného obydlí. A v tomhle neživém prostředí máš najít, kam si asi schovává svoje milovaná razítka. Bezva. Jen kdyby pan Hromada Svalů neměl nějakou hromádku taky v hlavě a napadlo se ho zeptat, jak to tu vlastně funguje, kde ta zatracená razítka hledat."
+    ],
+    "images": [
+      "pan-razitko.jpg"
     ]
   }
   ,
   "zidle": {
-    "text": [ "Super, máš razítko. Teď už jenom papíry a rychle pryč. Rychle pryč se dostaneš <a href=\"{{ base_url }}books/protipol/pages/jdu-pro-papiry\">tudy</a>" ]
+    "text": [ "Super, máš razítko. Teď už jenom papíry a rychle pryč. Rychle pryč se dostaneš <a href=\"jdu-pro-papiry\">tudy</a>" ]
   },
   "du-pro-papiry": {
     "text": [
       "No jasně. Je tam. Ten hnusák, co tak nenápadně postával na rohu. Ten hnusák, co se snažil vypadat, že si jenom skočil před vchod na cigárko. To, že tě sleduje, už ti nevyvrátí nikdo. Ale co teď s ním? Vrhne se na mě, nebo mě ještě bude špehovat? Utéct, nebo mu dát sežrat to, co se on určitě chystá servírovat mně?",
-      "Máš-li nůž, co takhle mu vysvětlit, že sledovat lidi, to se prostě nedělá? Jen ať pozorně poslouchá, až bude sbírat svá střeva z chodníku. Násilí je synonymum lásky. A ty mu chceš ukázat, že ho miluješ opravdu <a href=\"{{ base_url }}books/protipol/pages/brett-brodak\">hodně.</a>",
-      "Ale co bez nože? Koukni se na to takhle - je těžké zapomenout na bolest, ale ještě těžší je pamatovat si to pěkné. Po štěstí nám nezůstanou žádné jizvy. Z klidu a míru se tak pramálo poučíme. Poučme toho chlapa našimi pěstmi - ne nadarmo se ti říká Dan McDrew, drsňák, jehož pěsti budí posvátnou <a href=\"{{ base_url }}books/protipol/pages/dan-mcdrew\">úctu.</a>",
-      "Anebo kolem něj prostě proběhnout, třeba tě nedožene. Jeho vnější znaky svědčí o špatné kondici - modřiny jsou symptomem cirhózy jater, kašel karcinom plic, sakra, toho musejí <a href=\"{{ base_url }}books/protipol/pages/forrest-gump\">předbíhat</a> snad i nehybné předměty."
+      "Máš-li nůž, co takhle mu vysvětlit, že sledovat lidi, to se prostě nedělá? Jen ať pozorně poslouchá, až bude sbírat svá střeva z chodníku. Násilí je synonymum lásky. A ty mu chceš ukázat, že ho miluješ opravdu <a href=\"brett-brodak\">hodně.</a>",
+      "Ale co bez nože? Koukni se na to takhle - je těžké zapomenout na bolest, ale ještě těžší je pamatovat si to pěkné. Po štěstí nám nezůstanou žádné jizvy. Z klidu a míru se tak pramálo poučíme. Poučme toho chlapa našimi pěstmi - ne nadarmo se ti říká Dan McDrew, drsňák, jehož pěsti budí posvátnou <a href=\"dan-mcdrew\">úctu.</a>",
+      "Anebo kolem něj prostě proběhnout, třeba tě nedožene. Jeho vnější znaky svědčí o špatné kondici - modřiny jsou symptomem cirhózy jater, kašel karcinom plic, sakra, toho musejí <a href=\"forrest-gump\">předbíhat</a> snad i nehybné předměty."
     ]
   },
   "brett-brodak": {
@@ -90,6 +96,9 @@
       "Zachovej klid. Zachovej klid. Zachovej klid. Čekej. Vzpomínej. Co se dělá v takových situacích?",
       "Okno naproti. Pracujeme ve dvojicích.",
       "Jasně, už kouká jeho společník a dává ti znamení. Nemůže jen tak řvát z okna, když jsou naproti policajti, ale aspoň to znamení."
+    ],
+    "images": [
+        "falzifikator.gif"
     ]
   },
   "hospoda": {
