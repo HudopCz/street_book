@@ -35,6 +35,7 @@ class BookPage(Resource):
                 {
                     "book_name": book_name,
                     "base_url": app.config["BASE_URL"],
-                    "text": books[book_name][page_id]["text"]
+                    "text": books[book_name][page_id]["text"],
+                    "images": books[book_name][page_id]["images"]
                 }
             ))
