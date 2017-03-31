@@ -306,10 +306,168 @@
 		],
 		"images": []
 	},
-	"olympic": {
-		"text": [
-			""
-		],
-		"images": []
-	}
+  "telefonni-budka" :{
+    "text":[
+      "Zazvoní telefon a ty rychle vezmeš sluchátko.",
+      "\"Konečně\" ozve se ze sluchátka \"už tu na tebe čekám pěkě dlouho, oblečen pouze v kožených jezdeckých rukavicích, plaveckých brýlích a tyrkysových kalhotách. Máš prachy a papíry?\"",
+      "\"Jo, téměř bez komplikací.\"",
+      "\"Fajn, teď už jen musíš jít...\" Zbytek věty je přerušen výstřelem, který tě téměř připraví o sluch.",
+      "Tak to nám to pěkně pokračuje. Tvůj kontakt je pravděpodobně mrtvý jak kalhoty do zvonu, hledá tě každý policajt a ty tu stojíš v telefonní budce s mrtvolou na druhym konc drátu. Takhle ten komunismus asi nevybudujeme. Možná kdyby se tvá spojka zbytečně nevykecávala o svém šatníku, mohl si vědět kam nyní jít. Ale to je jen možná a ty se nyní musíš rozhodnout co dál.",
+      "Máš jednoho informátora, který už léta dělá pro odboj a ví o všem, co se šustne. Na druhou stranu je moudré chodit bez pistole s celým policejním aparátem v patách?",
+      "Informátora můžeš buď kontaktovat jako obvykle, že mu zakódovaně předáš zprávu, že se máte sejít (<a href=\"/books/protipol/pages/predani-zpravy\">předání zprávy</a>) nebo proběhnout místa, kde se obyvkle nachází (<a href=\"/books/protipol/pages/obvykla-mista\">obvyklá místa</a>).",
+      "Pokud se rozhodneš opatřit si zbraň, klikni na <a href=\"/books/protipol/pages/zbran\">zbran</a>"
+    ],
+    "images":[]
+  },
+  "predani-zpravy" :{
+    "text":[
+      "Jak si jistě pamatuješ, vaše obvyklé heslo pro setkání je \"Masivní letáková kampaň\" Zašifruj toto podle návodu, jak kontaktovat svého informátora a výsledek napiš do hry.hudop.cz/protipol/xxxxxx"
+    ],
+    "images":[]
+  },
+  "xmfwkdzdxnlwbjpareiuy" :{
+    "text":[
+      "Zašifrovanou zprávu necháváš na obvyklém místě. Nevíš sice, jak to dělá, ale tvůj informátor se vždy o předání dozví téměř okamžitě a na místě schůzky je dřív než ty. Můžeš tedy rychle vyrazit na adresu <b>Novákových 439/6.</b> "
+    ],
+    "images":[]
+  },
+  "obvykla-mista" :{
+    "text": [
+      "Rozhodl jsi se tedy pročesat místa, kde se tvůj informátor občas zdržuje. Vzhledem k počtu hospod, které obráží, sis na sebe upletl slušný bič. Vyraž na adresu <b>Sokolovská 274/142.</b>"
+    ],
+    "images": []
+  },
+  "olympic" :{
+    "text": [
+      "Byla to hezká procházka a ty konečně slavíš úspěch. Informátor tu sice není, ale místí barman ví, jak ho zastihnout. Nevíš sice, jak to dělá, ale tvůj informátor se vždy o předání dozví téměř okamžitě a na místě schůzky je dřív než ty. Můžeš tedy rychle vyrazit na adresu <b>Novákových 439/6.</b>"
+    ],
+    "images":[]
+  },
+  "zbran" :{
+    "text": [
+      "Získat dnes zbraň není vůbec lehké. Vzlhedem ke všem těm směrnicím si člověk musí nechat registrovat i vodní pistolku. Naštěstí jsi nedávno popíjel s člověkem, který dělá na registru zbraní a po pár pivech je dost ukecaný. Naneštěstí ten člověk mluví trochu v hádankách. Naštěstí si tu hádanku pamatuješ.",
+      "Pokud vyřešíš, kdo má pistoli, vydej se na jeho adresu a pistoli mu ukradni.",
+      "Pokud na to tvá mozková kapacita nestačí, vydej se za svým informátorem, buď předáním zprávy (<a href=\"/books/protipol/pages/predani-zpravy\">předání zprávy</a>) nebo dojdeš zkontrolovat místa, kde se občas nachází (<a href=\"/books/protipol/pages/obvzkla-mista\">obvyklá místa</a>)" ,
+      "Máme 5 lidí (Milan, Adam, Martin, Karel, Honza). Každý z nich bydlí na jiné adrese (Jateční 540/4, Voctářova 1477/5 , Malá Plynární 1030/3, Osadní 774/35, U Vody 1403/1), pije jiné pivo (Braník, Svijany, Gambáč, Kozel, Krušovice), má doma jiné domací mazlíčky (myši, čápa, mravence, šváby, krysy), má rád jinak propečené steaky (raw, rare, medium, done, welldone) a má doma jiný prostředek k obraně (špuntovka, kapslíkovka, vzduchovka, vodní pistole, pistole).",
+      "Úkolem je zjistit na jaké adrese se nachází pistole, abychom ji mohli jít ukrást, pokud víme, že",
+      "Milan bydlí na adrese Jateční 540/4  a své steaky má rád raw.",
+      "Martin má na střeše čapí hnízdo.",
+      "Honzův dům se nachází úplně napravo.",
+      "Adam bydlí na adrese Osadní 774/35 a jeho dům sousedí s Honzovým a Martinovým.",
+      "Karel pije braník a bydlí nalevo od Milana.",
+      "Ten, kdo chová čápa bydlí na adrese Malá Plynární 1030/3 a má doma vodní pistoli.",
+      "Honza má doma mravence.",
+      "Adam nepije ani svijany, ani Krušovice ani Gambáč.",
+      "Dům úplně nalevo se nachází na adrese U Vody 1403/1 a je zamořen šváby.",
+      "Na adrese Voctářova 1477/5 se nachází vzduchovka a velká zásoba Gambáče.",
+      "Ten, kdo má doma špuntovku, pije Svijany.",
+      "Krysy se nacházejí v domě mezi čápem a mravenci.",
+      "Lidé napravo od Milana nejedí své steaky medium.",
+      "Pistoli má doma ten, co jí své steaky well done."
+    ],
+    "images" :[]
+  },
+  "osadni" :{
+    "text": [
+      "Rychle vbíháš k Adamovi do bytu a bereš si, co ti neprávem náleží. Připiš si do inventáře pistoli. Teď už je určitě na čase sejít se se svým informátorem, buď pomocí předání zprávy (<a href=\"/books/protipol/pages/predani-zpravy\">předání zprávy</a>), nebo dojdeš zkontrolovat místa, kde se občas nachází (<a href=\"/books/protipol/pages/obvykla-mista\">obvyklá místa</a>)"
+    ],
+    "images":[]
+  },
+  "informator" :{
+    "text": [
+      "Stojí tam. Jako vždy v tyrkysových kalhotách. S mírně posměšným výrazem ve svých očích si vyslechne tvůj příběh. Čekáš, co bude chtít. Vždycky je to něco za něco.",
+      "\"Teď bych měl chuť na velkou tlustou babu se stehnama jako hroch.\"",
+      "Nesehnal jsi náhodou nedávno číslo na nějakou ženskou, kterou bys mu mohl dohodit? ",
+      "Jestli ano, zadej ho do hry.hudop.cz/protipol/xxxxxxxx",
+      "Pokud ne, tak se vydej na návštěvu místního bordelu – pokračuj na adresu <b>Sokolovská 457/127.</b>"
+    ],
+    "images":[]
+  },
+  "bordel" :{
+    "text": [
+      "Prohlížíš si místní výběr. Nakonec nacházíš perfektní exemplář jménem Lída. Dáváš <a href=\"/books/protipol/pages/201184136\">telefonní číslo</a> svému informátorovi."
+    ],
+    "images":[]
+  },
+  "201184136" :{
+    "text": [
+      "\"Díky, zprávu jsem ti nechal na adrese <b>Novákových 1954/20a.</b> Ve zprávě máš adresu na agenta, který by měl vědět, jak kontaktovat vaše šéfy.\""
+    ],
+    "images":[]
+  },
+  "zprava" :{
+    "text": [
+      "Přícházíš na místo určené tvým informátorem a vidíš blikající věcičku. Že by morseovka?"
+    ],
+    "images":["/static/protipol/mic.gif"]
+  },
+  "agent" :{
+    "text": [
+      "Pomalu se blížíš k bydlišti spřízněného agenta, když vidíš, jak z jeho domu vyvádějí policajti muže v tyrkysových kalhotách. To už je vážně pešek. Asi by ti měli na čelo napsat varování ministerstva zdravotnictví, že škodíš lidem ve svém okolí. Tak co teď? Nikdo jiný ti už asi nepomůže, takže ho v tom nemůžeš nechat.",
+      "Máš-li pistoli a rozhodneš-li se ji použít, pokračuj <a href=\"/books/protipol/pages/pistole\">zde</a>",
+      "Máš-li nůž a rozhodneš-i se ho použít, pokračuj <a href=\"/books/protipol/pages/nuz\">zde</a>",
+      "Určitě máš pěsti, rozhodneš-li se je použít, pokračuj <a href=\"/books/protipol/pages/pesti\">zde</a>",
+      "Máš-li mozek a rozhodneš-li se ho použít, pokračuj na <a href=\"/books/protipol/pages/finta\">zde</a>"
+    ],
+    "images":[]
+  },
+
+  "pistole" :{
+    "text": [
+      "Říká se, že slovní útok bolí víc, než fyzické násilí. Samozřejmě to není pravda, o čemž se policejní složky přesvědčily na vlastní kůži, poté co jsi je zasypal dávkou olova. Osvobozuješ spřízněného agenta, ale on bohužel není přesvědčen o tom, že jsi na jeho straně. Přeci jenom mohl bys být komunistický špion a mrtví policajti mohli být pouze figurkami ve vyšší partii. Běž na adresu Zenklova 181/70, kde prokážeš na jaké straně barikády stojíš."
+    ],
+    "images":[]
+  },
+  "nuz" :{
+    "text": [
+      "Vrhat se s nožem do bitvy, kde se bude střílet je hrdinské. Hrdinské a zároveň hloupé. Můžeš si pogratulovat, že jsi přesile vydržel vzdorovat celých 5 vteřin, než tě zasáhla první kulka. Naštěstí pro tebe pouze do nohy, takže asi přežiješ. Na druhou stranu tě to asi trochu zpomalí, takže si připiš 10 minut ke svému výslednému času. Vydej se na policejní stanici (z druhé strany budovy na adrese <b>Zenklova 212/17</b>)."
+    ],
+    "images":[]
+  },
+  "pesti" :{
+    "text": [
+      "Neohroženě jako Chuck Norris se vrháš do bitvy proti přesile. Bohužel nejsi Chuck Norris. Jediné, na co se vzmůžeš, je praštit zezadu nepřipraveného policajta. Poslední co si pamatuješ, je tvůj výkřik  \"Jozxyqk!\", což je zvuk, který vydá kocour, když mu někdo přiskřípne pohlavní orgány. Za dobu strávenou v bezvědomí si přičti 10 minut k výslednému času a vydej se na policejní stanici (z druhé strany budovy na adrese <b>Zenklova 212/17</b>)."
+    ],
+    "images":[]
+  },
+  "prison-break" :{
+    "text": [
+      "Na stanici vás nejdřív zavedou na ošetřovnu a trochu netakticky vám sundají pouta. Hrdinně si poradíte s doktorkou, která váží zhruba tolik, co tvoje játra. Nyní zbývá jen utéct ze stanice. Bohužel je to doslova bludiště.",
+      "Projdi bludištěm a zadej do adresy hry.hudop.cz/protipol/xxxxx popařadě čísla, jak procházíš bludišěm (vynech ty ve slepcýh uičkách)"
+    ],
+    "images":["/static/protipol/SCN_0004.jpg"]
+  },
+
+
+  "572911418" :{
+    "text": [
+      "Jste venku. Bohužel tvůj kolega si není jist, jestli nejsi komunistický špeh. Běž na adresu Zenklova 181/70, abys prokázal, na které straně barikády stojíš."
+    ],
+    "images":[]
+  },
+
+  "totoznost" :{
+    "text": [
+      "Stojíte u obchodu s oblečením. Jestli jsi opravdu agent západu, budeš vědět, co si koupit.  Zadej do hry.hudop.cz/protipol/xxxxxx kód zboží, které by sis koupil."
+    ],
+    "images":["/static/protipol/obleceni.jpg"]
+  },
+  "781282037" :{
+    "text": [
+      "KONEC!!!"
+    ],
+    "images":[]
+  },
+  "finta" :{
+    "text": [
+      "Okamžitě tě napadne, že pro vysvobození svého kolegy bys mohl použít tank. Vynikající nápad, který má jen 2 drobné chybičky. Zaprvé nemáš žádný tank a zadruhé žádný tank nemáš. Technicky jde pouze o jeden nedostatek, ale je tak velký, že je ho třeba zmínit dvakrát. Nakonec dostaneš lepší nápad. Kousek odtud je bar, kde se scházejí nejvyšší policejní představitelé. Pokud bys nějakého z nich opil, mohl bys mu ukrást průkaz a na stanici se za něj vydávat. Zařídit propuštění by už pak neměl být problém. Vydej se na adresu Náměstí Dr. Holého 1130/2."
+    ],
+    "images":[]
+  },
+  "prukaz" :{
+    "text": [
+      "hra"
+    ],
+      "images":[]
+  }
 }
