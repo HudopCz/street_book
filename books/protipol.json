@@ -56,7 +56,7 @@
     "text": [ "Super, máš razítko. Teď už jenom papíry a rychle pryč. Rychle pryč se dostaneš <a href=\"/books/protipol/pages/jdu-pro-papiry\">tudy</a>" ],
     "images": []
   },
-  "du-pro-papiry": {
+  "jdu-pro-papiry": {
     "text": [
       "No jasně. Je tam. Ten hnusák, co tak nenápadně postával na rohu. Ten hnusák, co se snažil vypadat, že si jenom skočil před vchod na cigárko. To, že tě sleduje, už ti nevyvrátí nikdo. Ale co teď s ním? Vrhne se na mě, nebo mě ještě bude špehovat? Utéct, nebo mu dát sežrat to, co se on určitě chystá servírovat mně?",
       "Máš-li nůž, co takhle mu vysvětlit, že sledovat lidi, to se prostě nedělá? Jen ať pozorně poslouchá, až bude sbírat svá střeva z chodníku. Násilí je synonymum lásky. A ty mu chceš ukázat, že ho miluješ opravdu <a href=\"/books/protipol/pages/brett-brodak\">hodně.</a>",
@@ -437,8 +437,6 @@
     ],
     "images":["/static/protipol/SCN_0004.jpg"]
   },
-
-
   "572911418" :{
     "text": [
       "Jste venku. Bohužel tvůj kolega si není jist, jestli nejsi komunistický špeh. Běž na adresu Zenklova 181/70, abys prokázal, na které straně barikády stojíš."
