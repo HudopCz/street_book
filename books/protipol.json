@@ -136,65 +136,180 @@
     ],
     "images": []
   },
-  "telefonni-budka": {
-    "text": [
-      "Zazvoní telefon a ty rychle vezmeš sluchátko.",
-      "\"Konečně\", ozve se ze sluchátka \"Už tu na tebe čekám pěkě dlouho, oblečen pouze v kožených jezdeckých rukavicích, plaveckých brýlích a tyrkysových kalhotách. Máš prachy a papíry?",
-      "\"Jo, téměř bez komplikací.\"",
-      "\"Fajn, teď už jen musíš jít...\" Zbytek věty je přerušen výstřelem, který tě téměř připraví o sluch.",
-      "Tak to nám to pěkně pokračuje. Tvůj kontakt je pravděpodobně mrtvý jak kalhoty do zvonu, hledá tě každý policajt a ty tu stojíš v telefonní budce s mrtvolou na druhym konc drátu. Takhle ten komunismus asi nevybudujeme. Možná kdyby se tvá spojka zbytečně nevykecávala o svém šatníku, mohl si vědět kam nyní jít. Ale to je jen možná a ty se nyní musíš rozhodnout co dál.",
-      "Máš jednoho informátora, který už léta dělá pro odboj a ví o všem, co se šustne. Na druhou stranu je moudré chodit bez pistole s celým policejním aparátem v patách?",
-      "Informátora můžeš buď kontaktovat jako obvykle, že mu zakódovaně předáš zprávu, že se máte sejít (<a href=\"/books/protipol/pages/predani-zpravy\">předání zprávy</a>) nebo proběhnout místa, kde se obyvkle nachází (<a href=\"/books/protipol/pages/obvykla-mista\">obvyklá místa</a>).",
-      "Pokud se rozhodneš opatřit si zbraň, klikni na <a href=\"/books/protipol/pages/zbran\">zbraň</a>"
-    ],
-    "images": []
-  },
-  "predani-zpravy": {
-    "text":[
-      "Jak si jistì pamatuješ, vaše obvyklé heslo pro setkání je \"Masivní letáková kampaň.\" Zašifruj toto podle návodu, jak kontaktovat svého informátora, a výsledek napiš do hry.hudop.cz/protipol/xxxxxx"
-    ],
-    "images": []
-  },
-  "micus-zakoduje": {
-    "text":[
-      "Zašifrovanou zprávu necháváš na obvyklém místì. Nevíš sice, jak to dìlá, ale tvùj informátor se vždy o pøedání dozví témìø okamžitì a na místì schùzky je døív než ty. Mùžeš tedy rychle vyrazit na adresu <b>Novákových 439/6.</b> "
-    ],
-    "images":[]
-  },
-  "obvykla-mista" :{
-    "text": [
-      "Rozhodl jsi se tedy proèesat místa, kde se tvùj informátor obèas zdržuje. Vzhledem k poètu hospod, které obráží, sis na sebe upletl slušný biè. Vyraž na adresu <b>Sokolovská 274/142.</b>"
-    ],
-    "images": []
-  },
-  "olympic" :{
-    "text": [
-      "Byla to hezká procházka a ty koneènì slavíš úspìch. Informátor tu sice není, ale místí barman ví, jak ho zastihnout. Nevíš sice, jak to dìlá, ale tvùj informátor se vždy o pøedání dozví témìø okamžitì a na místì schùzky je døív než ty. Mùžeš tedy rychle vyrazit na adresu <b>Novákových 439/6.</b>"
-    ],
-    "images":[]
-  },
-  "zbran" :{
-    "text": [
-      "Získat dnes zbraò není vùbec lehké. Vzlhedem ke všem tìm smìrnicím si èlovìk musí nechat registrovat i vodní pistolku. Naštìstí jsi nedávno popíjel s èlovìkem, který dìlá na registru zbraní a po pár pivech je dost ukecaný. Naneštìstí ten èlovìk mluví trochu v hádankách. Naštìstí si tu hádanku pamatuješ.",
-      "Pokud vyøešíš, kdo má pistoli, vydej se na jeho adresu a pistoli mu ukradni.",
-      "Pokud na to tvá mozková kapacita nestaèí, vydej se za svým informátorem, buï pøedáním zprávy (<a href=\"/books/protipol/pages/predani-zpravy\">pøedání zprávy</a>) nebo dojdeš zkontrolovat místa, kde se obèas nachází (<a href=\"/books/protipol/pages/obvzkla-mista\">obvyklá místa</a>)" ,
-      "Máme 5 lidí (Milan, Adam, Martin, Karel, Honza). Každý z nich bydlí na jiné adrese (Jateèní 540/4, Voctáøova 1477/5 , Malá Plynární 1030/3, Osadní 774/35, U Vody 1403/1), pije jiné pivo (Braník, Svijany, Gambáè, Kozel, Krušovice), má doma jiné domací mazlíèky (myši, èápa, mravence, šváby, krysy), má rád jinak propeèené steaky (raw, rare, medium, done, welldone) a má doma jiný prostøedek k obranì (špuntovka, kapslíkovka, vzduchovka, vodní pistole, pistole).",
-      "Úkolem je zjistit na jaké adrese se nachází pistole, abychom ji mohli jít ukrást, pokud víme, že",
-      "Milan bydlí na adrese Jateèní 540/4  a své steaky má rád raw.",
-      "Martin má na støeše èapí hnízdo.",
-      "Honzùv dùm se nachází úplnì napravo.",
-      "Adam bydlí na adrese Osadní 774/35 a jeho dùm sousedí s Honzovým a Martinovým.",
-      "Karel pije braník a bydlí nalevo od Milana.",
-      "Ten, kdo chová èápa bydlí na adrese Malá Plynární 1030/3 a má doma vodní pistoli.",
-      "Honza má doma mravence.",
-      "Adam nepije ani svijany, ani Krušovice ani Gambáè.",
-      "Dùm úplnì nalevo se nachází na adrese U Vody 1403/1 a je zamoøen šváby.",
-      "Na adrese Voctáøova 1477/5 se nachází vzduchovka a velká zásoba Gambáèe.",
-      "Ten, kdo má doma špuntovku, pije Svijany.",
-      "Krysy se nacházejí v domì mezi èápem a mravenci.",
-      "Lidé napravo od Milana nejedí své steaky medium.",
-      "Pistoli má doma ten, co jí své steaky well done."
-    ],
-    "images" :[]
-  }
+  "byt": {
+  		"text": [
+  			"Nenápadně si se dostal do bytu té práskačky, své exmilenky. Nyní musíš prohledat celý byt a zkusit najít knížku, v níž máš schované peníze na cestu z Československa a kontakty na odboj.",
+  			"<i>Prohledej všechna zákoutí a škvíry v okolí tohoto QR kódu.</i>"
+  		],
+  		"images": []
+  	},
+	"listek": {
+		"text": [
+			"Po krátkém prohledávání zjišťuješ, že knížka v tomto bytě není, ale našel si Lístek do divadla. Pokračuj na adresu jejího zaměstnání: <b>U papírny 100/2.</b>",
+			"<i>Připiš si do inventáře: Lístek do divadla</i>"
+		],
+		"images": []
+	},
+	"prace": {
+		"text": [
+			"Dorazil jsi k ex do práce, vrátný tě ihned sjel pohledem a ptá se tě: \"Kdo jsi soudruhu, a co tu chceš ? \". Pohotově odpovídáš, že jsi přítel Magdalény Chmatalové a že ji chceš překvapit v práci.",
+			"Soudružka Chmatalová tu není. Šla se soudružkou Vejvodovou do kavárny Liberál. Nejspíš ji najdeš tam soudruhu.\".Poděkuješ a musíš jít tedy tam.Bohužel je ti jasné, že tentokrát to jen tak nepůjde.Když tě pozná, tak zavolá SNB a ty už nebudeš mít šanci na útěk z ČSSR.Musíš se nějak přestrojit.",
+			"<i>Jestli jsou podle tebe peníze na to, aby se utráceli (potřebuješ 200,-KČS), běž do obchodu s oblečením: <b>Šternberkova 446/17.</b></i>",
+			"<i>Pokud nemáš peníze, nebo chceš-li ušetřit, jdi na místo podle obrázku.</i>"
+		],
+		"images": ["/static/protipol/pracene.jpg"]
+	},
+
+
+	"obchodsoblecenim": {
+		"text": [
+			"Rozhodl ses tedy nešetřit a dorazil jsi do obchodu s oblečením. Chce to něco nenápadného a podle socialistických filmů, co je nenápadnější, než baloňák a klobouk? Venku ani není moc teplo, takže se to bude hodit. A protože si nikdy nic takového nenosil, jak by tě mohla poznat?",
+			"<i>Odečti si z inventáře: 200 KČS.</i>",
+			"<i>Napiš si do inventáře: klobouk, balonový plášť</i>",
+			"<i>Pokračuj do kavárny Liberál: <b>Heřmanova 1209/6.</b></i>"
+		],
+		"images": []
+	},
+
+
+	"bezdomovciklobouk": {
+		"text": [
+			"Nacházíš se v centru hnízda bezdomovců. Jedno z posledních takových míst v Praze, které ještě SNB nezlikvidovala. Tady určitě nějakého nekalého živla co ti přenechá klobouk a kabát určitě najdeš. Bohužel tady na tomto místě vidíš pouze spícího muže v klobouku. Bez zaváhání a bázně sundáváš klobouk z hlavy spícího muže. Žádný plášť, který by nebyl cítit výraznou směsicí alkoholu, moči a testosteronového pachu, tu ale není. Zkus to tedy o něco dál.",
+			"<i>Připiš si do inventáře: klobouk</i>",
+			"<i>Jestliže už máš kabát, pokračuj do kavárny Liberál: <b>Heřmanova 1209/6.</b></i>",
+			"<i>Jestli ne, jdi na druhý konec uličky.</i>"
+		],
+		"images": []
+	},
+	"bezdomovcikabat": {
+		"text": [
+			"Dorazil jsi na druhý konec tohoto zašlého místa. Tady už tolik výrazný pach zvratků a moči necítíš. Najdeš muže, jehož kabát by se ti perfektně hodil. „Na co tak čumíš? Nejsi ty fízl?“. Vykřikne na tebe muž, jehož kabát si s takovým zaujetím prohlížíš.",
+			"\"Dej sem kabát, nebo ti useknu ruku\".",
+			" Odpovíš rázně a se šíleným výrazem v očích. Muž s velkým úlekem na nic nečeká a ihned kabát odevzdává.",
+			"<i>Připiš si do inventáře: kabát</i>",
+			"<i>Jestliže už máš klobouk, pokračuj do kavárny Liberál: <b>Heřmanova 1209/6.</b></i>",
+			"<i>Jestli ne, jdi na druhý konec uličky.</i>"
+		],
+		"images": []
+	},
+
+	"kavarna": {
+		"text": [
+			"Vstupuješ do kavárny Liberál. Kavárna je tak akorát velká. Ne tolik, aby to měl číšník daleko, ale ani ne tak málo, aby si tě mohla snadno všimnout. Už u vchodu si všimneš svojí ex a její kamarádky, jak sedí kousek od vchodu na toalety. Usadíš se tedy několik stolů od nich, aby si dobře slyšel, o čem se baví. Samozřejmě si sedneš zády k nim. Jak příhodné je tedy zrcadlo nad vchodovými dveřmi, ve kterém můžeš vidět nejen dění v celé kavárně, ale samozřejmě také ty dvě ženy.",
+			"Jenomže celý tvůj odposlech má jeden malý, ale významný háček. Kamarádka tvojí ex je němá. Mluví tak pouze ve znakové řeči. Naštěstí ale je tu to zrcadlo, takže vidíš, co říká. Objednáš si kávu a vodu a vyčkáváš.",
+			"\"Jsem ráda, že jsme se konečně dohodly a mohly jít spolu ven.\"",
+			"Mluví tvoje ex a kamarádka Vejvodová na to odpovídá rukama. V zrcadle vidíš trochu nerozpoznatelné gestikulace a už zase slyšíš ex.",
+			"Máš pravdu, ale i když jsem ho měla moc ráda, tak to musel být agent.Představ si, že jsem ho zaslechla, jak se do telefonu baví tak nějak podivně.A dokonce jsem zaslechla něco jako: „Revoluci zdar a imperialismu zvlášť.\".Neskutečný, co?\". Trochu nechápeš, jak na to přišla, protože něco takového si nikdy neřekl. Registruješ pohyb rukama.",
+			"Já vím. Já vím. Mám alespoň na památku tuhle knížku. Nevím, na co ji jako agent západu měl, ale i tak jsme ráda, že mi po něm něco zbylo./",
+			"Z kabelky vytahuje přesně tu knížku, o kterou ti celou dobu jde.Škoda že je tu tolik lidí a nemáš tak příležitost si ji vzít zpět. \"Jak že se jmenuje ta divadelní hra, na kterou jdeme?\"",
+			"</i>Teď je přesně ta chvíle, kdy si musíš z kamarádčiných rukou přečíst, jak že se ta hra jmenuje. Podle měsíčníku Luštitel si tak už můžeš přečíst, dle hry, adresu divadla, kam jdou.</i> Čekáš, až odejdou, aby tě nekonfrontovala. <i>Pokračuj na nalezenou adresu divadla.</i>"
+		],
+		"images": ["/static/protipol/kavarna.gif"]
+	},
+
+	"divadlovstup": {
+		"text": [
+			"Tak se nakonec podařilo. Jsi u divadla. Předpokládejme, že ex je už uvnitř. A ty se tam taky chceš dostat. Jenomže tady na kase se lístek koupit už nedá. Máš nějaký?",
+			"<a href=\"/books/protipol/pages/divadlovstupano\">Ano</a>",
+			"<a href=\"/books/protipol/pages/divadlovstupne\">Ne</a>"
+		],
+		"images": []
+	},
+	"divadlovstupano": {
+		"text": [
+			"Rychle se běž schovat na divedelní toalety a počkej tam na začátek: <b>Bubenská 1335/31.</b> <i>Odečti si z inventáře Lístek do divadla.</i>"
+		],
+		"images": []
+	},
+	"divadlovstupne": {
+		"text": [
+			"Musíš se tam dostat nějak jinak. Nejlépe zadním vchodem. Jdi na: <b>Bubenská 1335/33.</b>"
+		],
+		"images": []
+	},
+
+	"divadlozadnivchod": {
+		"text": [
+			"Našel jsi sice zadní vchod, ale na dveřích visí kódový zámek. Je ale kódován pomocí sudoku hádanky.",
+			"Vyřešíš-li následující sudoku, získáš z vyznačených polí číslo popisné a orientační místa, kam máš pokračovat. Adresu zadej ve formátu hry.hudop.cz/protipol/X1X2X3X4-X5X6"
+		],
+		"images": ["/static/protipol/divadlozadnivchod.jpg"]
+	},
+	"divadlosatna": {
+		"text": [
+			"S květinou a šibalským úsměvem dojdeš k šatnářce, která se už na tebe moc těší. Sotva spatří květinu, kterou ji neseš, podlomí se ji kolena a při přijímaní kytice tě smyslně políbí. Zřejmě už má něco upito, protože po chvilce mazlení si musí odskočit na toaletu.\"",
+			"Musím si odskočit chlapáku, ale nejdřív ti dám svůj telefon, abys na mě nezapomněl - 201184136. Je to jako když se koukneš na terč na šipky a pojedeš od dvanácti do tří.\". Pěkně se usměje a odchází. Konečně máš příležitost najít a vzít knihu. Kniha je v kabelce, která patří tvojí ex. Tu ale není tak snadné najít. Podívej se do inventární knihy. Mělo by tam být jméno tvojí ex. Logicky pak číslo pořadí v inventární knize je číslo pod kterým je uložená kabelka.",
+			"<i>Inventární knihu přestavují zvonky. Číslo pořadí je pak počítáno zleva shora po sloupcích. Číslo zvonku se správným jménem pak zadej místo XXX (případně doplněný o 0 zleva) do adresy http://hry.hudop.cz/books/protipol/pages/XXX. Další instrukce se dozvíš potom tam.</i>"
+		],
+		"images": []
+	},
+	"1335-31": {
+		"text": [
+			"Nemůžeš riskovat, že tě uvidí. Už v té kavárně se divně dívala. Tohle by bylo moc. Musíš tak ihned zamířit na toalety, kde se schováš.",
+			"Klasický studený smrad hajzlíků tě praští přes nos. Zavřeš se v kabince, kde tě snad nebude nikdo rušit, a čekáš na ohlášení začátku představení. Jakmile všichni nalezou do sálu, budeš mít dost času na prohledání šatny.",
+			"Je to tu. Z rozhlasu se ozývá klasický zvuk ohlášení začátku představení. Vycházíš tedy z kabinky, ale ouha.",
+			"\"Nazdárek soudruhu Chlapáku.Čekám tu na tebe už nějakou dobu.\" Vyjede na tebe šatnářka, opírajíc se, s lehce poodhaleným výstřihem, o umyvadlo. Aby si nic špatného nemyslela, přiblížíš se k ní, začneš si mýt ruce a přistoupíš na její hru. \"",
+			"Já věděla, že jsem tvůj typ. Jen škoda, že pro mě nemáš žádný dárek.Třeba květinu mi už nikdo dlouho nedonesl. Jestli tedy nespěcháš, dones mi květinu a já se ti odměním. Počkám na tebe v šatně.\" Pak tě lehce políbí na tvář a odchází z toalet.",
+			"Je čas tohoto zážitku využít. Dones ji květinu a pak využij příležitosti k prohledání kabelky s knížkou.",
+			"Máš 100 KČS?",
+			"<a href=\"/books/protipol/pages/1335-31ano\">Ano</a>",
+			"<a href=\"/books/protipol/pages/1335-31ne\">Ne</a>"
+		],
+		"images": []
+	},
+
+	"1335-31ano": {
+		"text": [
+			"Kup kytici v květinářství: <b>Janovského 528/30.</b>"
+		],
+		"images": []
+	},
+	"1335-31ne": {
+		"text": [
+			"No bude z tebe muset být zloděj květin. A kde se kradou květiny lépe než na hřbitově: <b>Strojnická 307/2.</b>"
+		],
+		"images": []
+	},
+	"hrbitov": {
+		"text": [
+			"Takže je z tebe znesvětitel hrobů. Fuj. No ale když nemáš peníze, tak se nedá nic dělat.",
+			"<i>Připiš si do inventáře: Kytice</i>",
+			"<i>Pokračuj do divadelní šatny: <b>U Smaltovny 1334/22.</b></i>"
+		],
+		"images": []
+	},
+	"kvetiny": {
+		"text": [
+			"Asi jistě víš, jak to tu funguje.",
+			"<i>Připiš si do inventáře: Kytice</i>",
+			"<i>Odečti si z inventáře: 100 KČS</i>",
+			"<i>Pokračuj do divadelní šatny: <b>U Smaltovny 1334/22.</b></i>"
+		],
+		"images": []
+	},
+	"046": {
+		"text": [
+			"Konečně jsi našel knihu. V útrobách její vazby jsou schované peníze na cestu z ČSSR i kontakt na odboj.",
+			"Jestli jsi už získal i doklady, vydej se kontaktovat odboj. Zašifrovaná adresa odboje:",
+			"<b>7a2g14b3o9z9e13r23c1k7v2p3q12a15k5n14y7i11f26k19w23h4p2c7k8a8a5j23i4x7u11t11n15b2m19t11a7h4t7k8y14l19x5x8h5f24z2v13f16k11p7k4l2o</b>",
+			"Tuto adresu si ulož nebo zapiš pro pozdější použití.",
+			"Pokud nemáš doklady, musíš získat falešné. Běž na adresu <b>Poupětova 320.</b>"
+		],
+		"images": []
+	},
+	"uvod": {
+		"text": [
+			"V kapse máš teď jen 200 KČS a v hlavě strach, nenávist a touhu dostat se odsud co nejrychleji. Naneštěstí svou \"jízdenku\" na cestu pryč ze socialistického Československa potřebuješ teprve získat. Valuty a kontakt na odboj jsou velice příhodně ukryty ve vazbě tvojí knihy \"S.Tuškevič - Marxismus - leninismus o válce a armádě\". Tu ti ale kromě klidu také ukradla tvoje exmilenka Magdaléna Chmatalová. Musíš tedy doufat, že jestli knihu ještě má, tak že vazbu nerozlepila. Jasně, jenže kromě peněz budeš potřebovat ještě falešné doklady, abys mohl překročit hranice.",
+			"Teď je tedy na tobě, zda jako první cestu zvolíš lov na knihu, nebo na papíry.",
+			"Kniha může být přímo u tvé ex. Ta se bude s největší pravděpodobností nacházet u sebe v práci. Tu najdeš na adrese <b>U Papírny 100/2.</b> Nebo můžeš zkusit hodně zariskovat a jít prohledat její byt. Ten je na adrese <b>Královská obora 233.</b> Nezapomeň ale, že po tobě jde STB.",
+			"Pro papíry si musíš jít za falzifikátorem. Tam půjdeš přes <b>Poupětovu 320.</b>"
+		],
+		"images": []
+	},
+	"olympic": {
+		"text": [
+			""
+		],
+		"images": []
+	}
 }
