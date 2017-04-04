@@ -46,6 +46,7 @@
       "Tenhle chlap je přesným opakem tvojí spojky. Opálený, osvalený člověk připravený podat si kohokoli. A kdykoli. Ten typ, u kterého máte dojem, že mu je všechno oblečení malé, že má pořád potřebu svléknout si ty tyrkysové kalhoty a tílko a obléknout si plavky, namazat se syntholem a zatnout biceps. Triceps. Kvadriceps. Co-já-vím-jaký-ceps. Karikatura člověka, reklama na steroidy, vlašák uvězněný v lidské kůži.",
       "Když nevíme, koho nenávidět, začneme nenávidět sami sebe. Možná proto radši nenávidíš každého, na koho narazíš.",
       "A chlap, co tu bydlel před ním, by v tobě možná nevzbuzoval o moc větší sympatie. Ten člověk, který má všechno uklizené, jak se patří. Ten člověk s bytem konfekčním stejně jako jeho tělo. Ten člověk, jehož byt působí jako vasektomie běžného obydlí. A v tomhle neživém prostředí máš najít, kam si asi schovává svoje milovaná razítka. Bezva. Jen kdyby pan Hromada Svalů neměl nějakou hromádku taky v hlavě a napadlo se ho zeptat, jak to tu vlastně funguje, kde ta zatracená razítka hledat."
+      "Prohledávání bytu probíhá tak, že zadáš adresu http://hry.hudop.cz/books/protipol/pages/prohledavana-vec (např. http://hry.hudop.cz/books/protipol/pages/palanda-z-boroveho-dreva)"
     ],
     "images": [
       "/static/protipol/pan-razitko.jpg"
@@ -81,7 +82,7 @@
     ],
     "images": []
   },
-  "forrest": {
+  "forrest-gump": {
     "text": [
       "3:47. To není zlý čásek na kilásek. Škoda, že jsi běžel jen 300 metrů a pak tě dohnal. A srazil na zem.",
       "Nakonec tě nechal ležet na zemi zbitého. Ale ještě jsi nevydechl naposledy. Zavolej si sanitku a nech se u vašeho felčara vyléčit (schovává se jako pediatr na adrese <b>V Přístavu 1585</b>)."
@@ -114,7 +115,7 @@
       "Ochlazuje se. A tobě stydne krev v žilách.",
       "Noc je tichá, jak jen může být. Zatím žádné sirény.",
       "Je jedna z těch podivných, nervózních nocí, co přijdou uprostřed jara, nepozvány. Chloupky na rukou získají brnivý elektrický náboj, který upozorňuje, že se blíží bouřka. Ať už opravdová, nebo jenom naše soukromá.",
-      "Falzifikátor nechal hospodskému moje papíry raději zamčené v trezoru. Neznám kód. Je tam přiložený vzkaz - “Promiň, ale vypadá to, že dnes budu mít něco na práci. Čekal jsem, stihl jsem mezitím sníst česnečku a vepřová játra na cibulce s rýží, ale pak už jsem vážně musel jít; ale zjistil jsem, že mi ujela tramvaj, tak jsem se stavil ještě na dodatečného utopence a pak letěl na další; ale nechal jsem ti něco u hospodského v trezoru.”",
+      "Falzifikátor nechal hospodskému moje papíry raději zamčené v trezoru. Neznám kód. Je tam přiložený vzkaz - “Promiň, ale vypadá to, že dnes budu mít něco na práci. Čekal jsem, stihl jsem mezitím sníst uzený bok s hořčicí a křenem a smažený kuřecí řízek s bramborem, ale pak už jsem vážně musel jít; ale zjistil jsem, že mi ujela tramvaj, tak jsem se stavil ještě na dodatečného utopence a pak letěl na další; ale nechal jsem ti něco u hospodského v trezoru.”",
       "Trezor odemkneš tak, že zadáš adresu http://hry.hudop.cz/books/protipol/pages/kod-k-trezoru (třeba http://hry.hudop.cz/books/protipol/pages/123456)"
     ],
     "images": []
@@ -126,9 +127,9 @@
     ],
     "images": []
   },
-  "12930": {
+  "14030": {
     "text": [
-      "Úspěšně jsi odemkl trezor. Uvnitř jsi našel falešné papíry a opatřil je potřebným razítkem.",
+      "Úspěšně jsi odemkl trezor. Uvnitř jsi našel falešné papíry a opatřil je potřebným razítkem. Možná by nebylo k zahození si tuhle informaci zapamatovat.",
       "Ještě byl v trezoru další vzkaz: “Kdyby něco, tak u nás používáme tuhle šifru: Máš vždy číslo a za ním znak, pokud číslo není prvočíslo, tak je tam ten znak navíc, pokud číslo je prvočíslo, tak se ten znak počítá a je posunutý v ceasarce o hodnotu toho daného prvočísla.”",
       "Co teď?",
       "Pokud máš už své doklady, ale nemáš peníze, bylo by záhodno si je opatřit. Ty bys snad měl mít schované v knížce v bytě své exmilenky (<b>Planetárium Praha, Královská obora 233</b>), anebo se za ní můžeš stavit přímo do práce na adrese <b>U Papírny 100/2</b>.",
@@ -239,7 +240,7 @@
 		"text": [
 			"S květinou a šibalským úsměvem dojdeš k šatnářce, která se už na tebe moc těší. Sotva spatří květinu, kterou ji neseš, podlomí se ji kolena a při přijímaní kytice tě smyslně políbí. Zřejmě už má něco upito, protože po chvilce mazlení si musí odskočit na toaletu.\"",
 			"Musím si odskočit chlapáku, ale nejdřív ti dám svůj telefon, abys na mě nezapomněl - 201184136. Je to jako když se koukneš na terč na šipky a pojedeš od dvanácti do tří.\". Pěkně se usměje a odchází. Konečně máš příležitost najít a vzít knihu. Kniha je v kabelce, která patří tvojí ex. Tu ale není tak snadné najít. Podívej se do inventární knihy. Mělo by tam být jméno tvojí ex. Logicky pak číslo pořadí v inventární knize je číslo pod kterým je uložená kabelka.",
-			"<i>Inventární knihu přestavují zvonky. Číslo pořadí je pak počítáno zleva shora po sloupcích. Číslo zvonku se správným jménem pak zadej místo XXX (případně doplněný o 0 zleva) do adresy http://hry.hudop.cz/books/protipol/pages/XXX. Další instrukce se dozvíš potom tam.</i>"
+			"<i>Inventární knihu představují zvonky. Číslo pořadí je pak počítáno zleva shora po sloupcích. Číslo zvonku se správným jménem pak zadej místo XXX (případně doplněný o 0 zleva) do adresy http://hry.hudop.cz/books/protipol/pages/XXX. Další instrukce se dozvíš potom tam.</i>"
 		],
 		"images": []
 	},
