@@ -290,11 +290,11 @@
 	},
 	"046": {
 		"text": [
-			"Konečně jsi našel knihu. V útrobách její vazby jsou schované peníze na cestu z ČSSR i kontakt na odboj.",
-			"Jestli jsi už získal i doklady, vydej se kontaktovat odboj. Zašifrovaná adresa odboje:",
-			"<b>7a2g14b3o9z9e13r23c1k7v2p3q12a15k5n14y7i11f26k19w23h4p2c7k8a8a5j23i4x7u11t11n15b2m19t11a7h4t7k8y14l19x5x8h5f24z2v13f16k11p7k4l2o</b>",
-			"Tuto adresu si ulož nebo zapiš pro pozdější použití.",
-			"Pokud nemáš doklady, musíš získat falešné. Běž na adresu <b>Poupětova 320.</b>"
+      "Konečně jsi našel knihu. V útrobách její vazby jsou schované peníze na cestu z ČSSR i kontakt na odboj. ",
+      "Jestli jsi už získal i doklady, vydej se kontaktovat odboj. Zašifrovaná adresa odboje:",
+      "<b>7a2g14b3o9z9e13r23c1k7v2p3q12a15k5n14y7i11f26k19w23h4p2c7k8a8a5j23i4x7u11t11n15b2m19t11a7h4t7k8y14l19x5x8h5f24z2v13f16k11p7k4l2o</b>",
+      "Tuto adresu si ulož nebo zapiš pro pozdější použití a valuty si zapiš do inventáře.",
+      "Pokud nemáš doklady, musíš získat falešné. Běž na adresu <b>Poupětova 320.</b>"
 		],
 		"images": []
 	},
@@ -302,7 +302,7 @@
 		"text": [
 			"V kapse máš teď jen 200 KČS a v hlavě strach, nenávist a touhu dostat se odsud co nejrychleji. Naneštěstí svou \"jízdenku\" na cestu pryč ze socialistického Československa potřebuješ teprve získat. Valuty a kontakt na odboj jsou velice příhodně ukryty ve vazbě tvojí knihy \"S.Tuškevič - Marxismus - leninismus o válce a armádě\". Tu ti ale kromě klidu také ukradla tvoje exmilenka Magdaléna Chmatalová. Musíš tedy doufat, že jestli knihu ještě má, tak že vazbu nerozlepila. Jasně, jenže kromě peněz budeš potřebovat ještě falešné doklady, abys mohl překročit hranice.",
 			"Teď je tedy na tobě, zda jako první cestu zvolíš lov na knihu, nebo na papíry.",
-			"Kniha může být přímo u tvé ex. Ta se bude s největší pravděpodobností nacházet u sebe v práci. Tu najdeš na adrese <b>U Papírny 100/2.</b> Nebo můžeš zkusit hodně zariskovat a jít prohledat její byt. Ten je na adrese <b>Královská obora 233.</b> Nezapomeň ale, že po tobě jde STB.",
+			"Kniha může být přímo u tvé ex. Ta se bude s největší pravděpodobností nacházet u Magdaleny v práci. Tu najdeš na adrese <b>U Papírny 100/2.</b> Nebo můžeš zkusit hodně zariskovat a jít prohledat její byt. Ten je na adrese <b>Královská obora 233.</b> Nezapomeň ale, že po tobě jde STB.",
 			"Pro papíry si musíš jít za falzifikátorem. Tam půjdeš přes <b>Poupětovu 320.</b>"
 		],
 		"images": []
@@ -334,7 +334,7 @@
   },
   "obvykla-mista" :{
     "text": [
-      "Rozhodl jsi se tedy pročesat místa, kde se tvůj informátor občas zdržuje. Vzhledem k počtu hospod, které obráží, sis na sebe upletl slušný bič. Vyraž na adresu <b>Sokolovská 274/142.</b>"
+      "Rozhodl jsi se tedy pročesat místa, kde se tvůj informátor občas zdržuje. Vzhledem k počtu hospod, které obráží, sis na sebe upletl slušný bič. Vyraž na adresu <b>Sokolovská 325/140.</b>"
     ],
     "images": []
   },
@@ -421,13 +421,13 @@
   },
   "nuz" :{
     "text": [
-      "Vrhat se s nožem do bitvy, kde se bude střílet je hrdinské. Hrdinské a zároveň hloupé. Můžeš si pogratulovat, že jsi přesile vydržel vzdorovat celých 5 vteřin, než tě zasáhla první kulka. Naštěstí pro tebe pouze do nohy, takže asi přežiješ. Na druhou stranu tě to asi trochu zpomalí, takže si připiš 10 minut ke svému výslednému času. Vydej se na policejní stanici (z druhé strany budovy na adrese <b>Zenklova 212/17</b>)."
+      "Vrhat se s nožem do bitvy, kde se bude střílet je hrdinské. Hrdinské a zároveň hloupé. Můžeš si pogratulovat, že jsi přesile vydržel vzdorovat celých 5 vteřin, než tě zasáhla první kulka. Naštěstí pro tebe pouze do nohy, takže asi přežiješ. Na druhou stranu tě to asi trochu zpomalí, takže si připiš 15 minut ke svému výslednému času. Vydej se na policejní stanici (z druhé strany budovy na adrese <b>Zenklova 212/17</b>)."
     ],
     "images":[]
   },
   "pesti" :{
     "text": [
-      "Neohroženě jako Chuck Norris se vrháš do bitvy proti přesile. Bohužel nejsi Chuck Norris. Jediné, na co se vzmůžeš, je praštit zezadu nepřipraveného policajta. Poslední co si pamatuješ, je tvůj výkřik  \"Jozxyqk!\", což je zvuk, který vydá kocour, když mu někdo přiskřípne pohlavní orgány. Za dobu strávenou v bezvědomí si přičti 10 minut k výslednému času a vydej se na policejní stanici (z druhé strany budovy na adrese <b>Zenklova 212/17</b>)."
+      "Neohroženě jako Chuck Norris se vrháš do bitvy proti přesile. Bohužel nejsi Chuck Norris. Jediné, na co se vzmůžeš, je praštit zezadu nepřipraveného policajta. Poslední co si pamatuješ, je tvůj výkřik  \"Jozxyqk!\", což je zvuk, který vydá kocour, když mu někdo přiskřípne pohlavní orgány. Za dobu strávenou v bezvědomí si přičti 15 minut k výslednému času a vydej se na policejní stanici (z druhé strany budovy na adrese <b>Zenklova 212/17</b>)."
     ],
     "images":[]
   },
@@ -453,7 +453,7 @@
   },
   "781282037" :{
     "text": [
-      "KONEC!!!"
+      "Vybíráš tyrkysové kalhoty a na tváři tvého kolegy je vidět úleva. Teď už je jasné, že nemůžeš být komunistický špion. Prozrazuje ti, že odboj sídlí v baru jménem Velbloud na adrese <b>Hraniční 26/3.</b>"
     ],
     "images":[]
   },
@@ -463,10 +463,24 @@
     ],
     "images":[]
   },
-  "prukaz" :{
+  "180" :{
     "text": [
-      "hra"
+      "3 hodiny jsou dlouhá doba. Naštěstí pro tebe seděl důstojník v hospodě již pěkně dlouho a po deseti minutách usne na stole v poloze supermana. Připiš si 10 minut zdržení a vydej se vysvobodit svého kolegu na adresu <b>Vojenova 2481/5.</b>"
     ],
       "images":[]
-  }
+  },
+  "vysvobozeni" :{
+    "text":[
+      "Přicházíš na stanici a přikazuješ službě, ať ti přivedou zadrženého agenta, abys ho mohl převézt na tajné místo k výslechu. Když policajt konající službu zjistí, jakou máš hodnost, vysekne ti extradlouhý důstojnický pozdrav (připiš si 1 minutu zdržení) a běží pro vězně. Během chvilky stojíte před stanicí a ty mu vysvětluješ svůj problém.",
+      "Bohužel tvůj kolega si není jist, jestli nejsi komunistický špeh. Běž na adresu <b>Zenklova 181/70</b>, abys prokázal na které straně barikády stojíš."
+    ],
+    "images":[]
+  },
+  "prukaz" :{
+    "text":[
+      "Nenápadně obhlížíš bar, až nakonec nacházíš důstojníka, který je ti celkem podobný. Teď už ho jen opít. A jak někoho lépe opít než pomocí matematiky?",
+      "Zmíněný důstojník si při příchodu objednal pivo, zelenou a rum a dále má v plánu pokračovat následujícím tempem: pivo co půl hodiny, zelenou co 20 minut a rum co 45 minut. Dále víme, že pivo mu zvedne hladinu alkoholu o 0,3 promile, zelená o 0,2 promile, rum o 0,35 promile a navíc každých 10 minut vystřízliví o 0,1 promile. Za kolik minut přesáhne hladina alkoholu v jeho krvi 3,5 promile? Předpokládejme, že veškerá konzumace i nástup alkoholu probíhají okamžitě. Výsledek zadej do adresy hry.hudop.cz/protipol/XXXXX."
+    ],
+    "images":[]
+  },
 }
