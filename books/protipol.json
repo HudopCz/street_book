@@ -453,7 +453,8 @@
   },
   "781282037" :{
     "text": [
-      "Vybíráš tyrkysové kalhoty a na tváři tvého kolegy je vidět úleva. Teď už je jasné, že nemůžeš být komunistický špion. Prozrazuje ti, že odboj sídlí v baru jménem Velbloud na adrese <b>Hraniční 26/3.</b>"
+      "Vybíráš tyrkysové kalhoty a na tváøi tvého kolegy je vidìt úleva. Teï už je jasné, že nemùžeš být komunistický špion. Prozrazuje ti, že odboj sídlí v baru jménem Velbloud na adrese <b>Hranièní 26/3.</b>",
+      "Abys mohl navázat kontakt s agenty odboje, musíš jim říct heslo. \"Venku je dnes hezky.\"  Na což zareagují \"Proto jsem si vzal deštník.\" Poslední část, kterou máš ty zareagovat, má bohužel agent pouze v zašifrované podobě, ale slíbil, že ti u baru nechá klíč. Šifra zní takto:\"C5A4D4C3D5B1E2 C3D4 E2D4C3D5C5A4B3C3\""
     ],
     "images":[]
   },
@@ -482,5 +483,11 @@
       "Zmíněný důstojník si při příchodu objednal pivo, zelenou a rum a dále má v plánu pokračovat následujícím tempem: pivo co půl hodiny, zelenou co 20 minut a rum co 45 minut. Dále víme, že pivo mu zvedne hladinu alkoholu o 0,3 promile, zelená o 0,2 promile, rum o 0,35 promile a navíc každých 10 minut vystřízliví o 0,1 promile. Za kolik minut přesáhne hladina alkoholu v jeho krvi 3,5 promile? Předpokládejme, že veškerá konzumace i nástup alkoholu probíhají okamžitě. Výsledek zadej do adresy hry.hudop.cz/protipol/XXXXX."
     ],
     "images":[]
+  },
+  "zprava" :{
+  "text": [
+    "Poté co vyluštíš poslední část hesla, vstup do baru, vydej se dolů po schodech a kontaktuj agenty odboje."
+  ],
+  "images":["/static/protipol/klic.jpg"]
   }
 }
