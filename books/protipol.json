@@ -484,10 +484,10 @@
     ],
     "images":[]
   },
-  "zprava" :{
-  "text": [
-    "Poté co vyluštíš poslední část hesla, vstup do baru, vydej se dolů po schodech a kontaktuj agenty odboje."
-  ],
-  "images":["/static/protipol/klic.jpg"]
+  "velbloud" :{
+    "text": [
+      "Poté co vyluštíš poslední část hesla, vstup do baru, vydej se dolů po schodech a kontaktuj agenty odboje."
+    ],
+    "images":["/static/protipol/klic.jpg"]
   }
 }
