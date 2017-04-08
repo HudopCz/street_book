@@ -160,8 +160,6 @@
 		],
 		"images": ["/static/protipol/pracene.jpg"]
 	},
-
-
 	"obchodsoblecenim": {
 		"text": [
 			"Rozhodl ses tedy nešetřit a dorazil jsi do obchodu s oblečením. Chce to něco nenápadného a podle socialistických filmů, co je nenápadnější, než baloňák a klobouk? Venku ani není moc teplo, takže se to bude hodit. A protože si nikdy nic takového nenosil, jak by tě mohla poznat?",
@@ -171,8 +169,6 @@
 		],
 		"images": []
 	},
-
-
 	"bezdomovciklobouk": {
 		"text": [
 			"Nacházíš se v centru hnízda bezdomovců. Jedno z posledních takových míst v Praze, které ještě SNB nezlikvidovala. Tady určitě nějakého nekalého živla co ti přenechá klobouk a kabát určitě najdeš. Bohužel tady na tomto místě vidíš pouze spícího muže v klobouku. Bez zaváhání a bázně sundáváš klobouk z hlavy spícího muže. Žádný plášť, který by nebyl cítit výraznou směsicí alkoholu, moči a testosteronového pachu, tu ale není. Zkus to tedy o něco dál.",
@@ -232,7 +228,7 @@
 	"divadlozadnivchod": {
 		"text": [
 			"Našel jsi sice zadní vchod, ale na dveřích visí kódový zámek. Je ale kódován pomocí sudoku hádanky.",
-			"Vyřešíš-li následující sudoku, získáš z vyznačených polí číslo popisné a orientační místa, kam máš pokračovat. Adresu zadej ve formátu hry.hudop.cz/protipol/X1X2X3X4-X5X6"
+			"Vyřešíš-li následující sudoku, získáš z vyznačených polí číslo popisné a orientační místa, kam máš pokračovat. Adresu zadej ve formátu http://hry.hudop.cz/books/protipol/pages/X1X2X3X4-X5X6"
 		],
 		"images": ["/static/protipol/divadlozadnivchod.jpg"]
 	},
@@ -322,11 +318,11 @@
   },
   "predani-zpravy" :{
     "text":[
-      "Jak si jistě pamatuješ, vaše obvyklé heslo pro setkání je \"Masivní letáková kampaň\" Zašifruj toto podle návodu, jak kontaktovat svého informátora a výsledek napiš do hry.hudop.cz/protipol/xxxxxx"
+      "Jak si jistě pamatuješ, vaše obvyklé heslo pro setkání je \"Masivní letáková kampaň\" Zašifruj toto podle návodu, jak kontaktovat svého informátora a výsledek napiš do http://hry.hudop.cz/books/protipol/pages/xxxxxx"
     ],
     "images":[]
   },
-  "xmfwkdzdxnlwbjpareiuy" :{
+  "odwnbuquoemxckqbsfjvj": {
     "text":[
       "Zašifrovanou zprávu necháváš na obvyklém místě. Nevíš sice, jak to dělá, ale tvůj informátor se vždy o předání dozví téměř okamžitě a na místě schůzky je dřív než ty. Můžeš tedy rychle vyrazit na adresu <b>Novákových 439/6.</b> "
     ],
@@ -379,7 +375,7 @@
       "Stojí tam. Jako vždy v tyrkysových kalhotách. S mírně posměšným výrazem ve svých očích si vyslechne tvůj příběh. Čekáš, co bude chtít. Vždycky je to něco za něco.",
       "\"Teď bych měl chuť na velkou tlustou babu se stehnama jako hroch.\"",
       "Nesehnal jsi náhodou nedávno číslo na nějakou ženskou, kterou bys mu mohl dohodit? ",
-      "Jestli ano, zadej ho do hry.hudop.cz/protipol/xxxxxxxx",
+      "Jestli ano, zadej ho do http://hry.hudop.cz/books/protipol/pages/xxxxxxxx",
       "Pokud ne, tak se vydej na návštěvu místního bordelu – pokračuj na adresu <b>Sokolovská 457/127.</b>"
     ],
     "images":[]
@@ -434,7 +430,7 @@
   "prison-break" :{
     "text": [
       "Na stanici vás nejdřív zavedou na ošetřovnu a trochu netakticky vám sundají pouta. Hrdinně si poradíte s doktorkou, která váží zhruba tolik, co tvoje játra. Nyní zbývá jen utéct ze stanice. Bohužel je to doslova bludiště.",
-      "Projdi bludištěm a zadej do adresy hry.hudop.cz/protipol/xxxxx popařadě čísla, jak procházíš bludišěm (vynech ty ve slepcýh uičkách)"
+      "Projdi bludištěm a zadej do adresy http://hry.hudop.cz/books/protipol/pages/xxxxx popařadě čísla, jak procházíš bludišěm (vynech ty ve slepcýh uičkách)"
     ],
     "images":["/static/protipol/SCN_0004.jpg"]
   },
@@ -447,7 +443,7 @@
 
   "totoznost" :{
     "text": [
-      "Stojíte u obchodu s oblečením. Jestli jsi opravdu agent západu, budeš vědět, co si koupit.  Zadej do hry.hudop.cz/protipol/xxxxxx kód zboží, které by sis koupil."
+      "Stojíte u obchodu s oblečením. Jestli jsi opravdu agent západu, budeš vědět, co si koupit. Zadej do http://hry.hudop.cz/books/protipol/pages/xxxxxx kód zboží, které by sis koupil."
     ],
     "images":["/static/protipol/obleceni.jpg"]
   },
@@ -480,7 +476,7 @@
   "prukaz" :{
     "text":[
       "Nenápadně obhlížíš bar, až nakonec nacházíš důstojníka, který je ti celkem podobný. Teď už ho jen opít. A jak někoho lépe opít než pomocí matematiky?",
-      "Zmíněný důstojník si při příchodu objednal pivo, zelenou a rum a dále má v plánu pokračovat následujícím tempem: pivo co půl hodiny, zelenou co 20 minut a rum co 45 minut. Dále víme, že pivo mu zvedne hladinu alkoholu o 0,3 promile, zelená o 0,2 promile, rum o 0,35 promile a navíc každých 10 minut vystřízliví o 0,1 promile. Za kolik minut přesáhne hladina alkoholu v jeho krvi 3,5 promile? Předpokládejme, že veškerá konzumace i nástup alkoholu probíhají okamžitě. Výsledek zadej do adresy hry.hudop.cz/protipol/XXXXX."
+      "Zmíněný důstojník si při příchodu objednal pivo, zelenou a rum a dále má v plánu pokračovat následujícím tempem: pivo co půl hodiny, zelenou co 20 minut a rum co 45 minut. Dále víme, že pivo mu zvedne hladinu alkoholu o 0,3 promile, zelená o 0,2 promile, rum o 0,35 promile a navíc každých 10 minut vystřízliví o 0,1 promile. Za kolik minut přesáhne hladina alkoholu v jeho krvi 3,5 promile? Předpokládejme, že veškerá konzumace i nástup alkoholu probíhají okamžitě. Výsledek zadej do adresy http://hry.hudop.cz/books/protipol/pages/XXXXX."
     ],
     "images":[]
   },
