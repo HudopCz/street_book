@@ -36,6 +36,7 @@ class BookPage(Resource):
                     "book_name": book_name,
                     "base_url": app.config["BASE_URL"],
                     "text": books[book_name][page_id]["text"],
-                    "images": books[book_name][page_id]["images"]
+                    "images": books[book_name][page_id]["images"],
+                    "table": books[book_name][page_id]["table"] if "table" in books[book_name][page_id] else []
                 }
             ))
